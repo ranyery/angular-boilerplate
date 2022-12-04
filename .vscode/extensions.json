@@ -6,6 +6,7 @@
     "johnpapa.angular2",
     "erhise.vs-ng-quick-switch",
     "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
     "rbbit.typescript-hero"
   ]
 }
