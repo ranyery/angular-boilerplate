@@ -5,6 +5,7 @@
     "cyrilletuzi.angular-schematics",
     "johnpapa.angular2",
     "erhise.vs-ng-quick-switch",
-    "dbaeumer.vscode-eslint"
+    "dbaeumer.vscode-eslint",
+    "rbbit.typescript-hero"
   ]
 }
