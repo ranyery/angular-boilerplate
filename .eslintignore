@@ -6,3 +6,4 @@ karma.conf.js
 commitlint.config.js
 src/test.ts
 node_modules/
+coverage/*

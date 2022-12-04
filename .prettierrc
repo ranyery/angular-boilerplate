@@ -10,7 +10,6 @@
     {
       "files": "*.md",
       "options": {
-        "printWidth": 80,
         "useTabs": false,
         "trailingComma": "none",
         "arrowParens": "avoid",
@@ -21,6 +20,12 @@
       "files": "*.{json,babelrc,eslintrc,remarkrc,prettierrc}",
       "options": {
         "useTabs": false
+      }
+    },
+    {
+      "files": ["src/**/*.scss", "src/**/*.html"],
+      "options": {
+        "singleQuote": false
       }
     }
   ]
